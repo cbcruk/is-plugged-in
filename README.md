@@ -4,6 +4,8 @@
 
 Works in Node.js and browsers.
 
+**[Live Demo](https://cbcruk.github.io/is-plugged-in/)**
+
 ## Install
 
 ```sh

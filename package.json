@@ -4,7 +4,9 @@
   "scripts": {
     "dev": "pnpm -r dev",
     "dev:web": "pnpm --filter @is-plugged-in/web-example dev",
+    "dev:browser": "pnpm --filter @is-plugged-in/browser-example dev",
     "build": "pnpm -r build",
+    "build:browser": "pnpm --filter @is-plugged-in/browser-example build",
     "test": "pnpm -r test",
     "lint": "pnpm -r lint"
   },
